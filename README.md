@@ -214,34 +214,6 @@ Envoie le fichier `padlet.html` (ou pointe vers l'URL si déployé en ligne). Le
 
 ---
 
-## 🌐 Déploiement en ligne (GitHub Pages)
-
-Tu peux héberger le padlet gratuitement :
-
-1. Crée un compte sur [github.com](https://github.com)
-2. Crée un dépôt public (ex. `padlet-maternelle`)
-3. Téléverse `padlet.html` (renomme en `index.html` pour qu'il s'ouvre à la racine)
-4. *Settings → Pages → Source : main / root → Save*
-5. Ton URL : `https://<pseudo>.github.io/padlet-maternelle/`
-
-Partage cette URL avec tes collègues — chacun aura son padlet personnel (localStorage par navigateur).
-
----
-
-## 🐛 Problèmes courants
-
-| Problème | Solution |
-|---|---|
-| Mes changements ne s'affichent pas | `Ctrl + F5` (rafraîchissement forcé) |
-| Le fichier s'ouvre dans le mauvais programme | Clic droit → Ouvrir avec → ton navigateur |
-| Emojis bizarres ou qui clignotent | ⚙️ → Données → Pack d'emojis → **Système** (toujours stable) |
-| Pas assez d'espace pour ma photo | Retire d'autres photos ou redimensionne avant l'upload |
-| Une activité supprimée par erreur | Importe ton dernier export, ou onglet Données → Réinitialiser tout |
-| Écran blanc | Essaie un autre navigateur ; JavaScript doit être activé |
-| Fenêtre de bienvenue revient sans cesse | Mode privé ou nettoyeur automatique efface le `localStorage` |
-
----
-
 ## ⌨️ Raccourcis clavier
 
 | Touche | Action |
